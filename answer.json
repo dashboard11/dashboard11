@@ -1,7 +1,7 @@
 [
     {
         "action": "talk",
-        "voiceName": "test_voicecall",
+        "voiceName": "Karthik",
         "text": "This the test voice message from System Health Dashboard"
     }
 ]
